@@ -49,8 +49,9 @@
                                          "ROBOTS":  "INDEX,FOLLOW",
                                          "uhfHeaderId":  "MSDocsHeader-Office",
                                          "ms.topic":  "conceptual",
-                                         "author":  "",
-                                         "ms.author":  "",
+                                         "author":  "Serdar Soysal",
+                                         "ms.author":  "Serdar Soysal",
+                                         "ms.technology":  "lync-2013",                     
                                          "ms.prod":  "Lync-2013"
                                      },
                   "fileMetadata":  {
